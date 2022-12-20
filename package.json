@@ -1,0 +1,20 @@
+{
+  "name": "react-without-create-react-app",
+  "version": "1.0.0",
+  "description": "React project without create-react-app setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trantuvan/react-without-create-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trantuvan/react-without-create-react-app/issues"
+  },
+  "homepage": "https://github.com/Trantuvan/react-without-create-react-app#readme"
+}
