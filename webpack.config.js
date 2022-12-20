@@ -7,6 +7,11 @@ module.exports = {
     path: path.join(__dirname, "dist"),
     filename: "index_bundle.js",
   },
+  plugins: [
+    new htmlWebpackPlugin({
+      template: "src/index.html",
+    }),
+  ],
   module: {
     rules: [
       {
